@@ -1,0 +1,2 @@
+# Online_Homework_system
+利用Django初步尝试实现了一个在线课程作业发布管理系统
